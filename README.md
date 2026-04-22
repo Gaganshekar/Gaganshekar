@@ -37,7 +37,7 @@
 
 ### 🎓 Alumni Management System
 - Windows desktop app for alumni registration & event management
-- Supports **200+ users** with role-based access control
+- Supports user swith role-based access control
 - Tech: C#, Java, SQL Server, Windows Forms
 - [View Project](https://github.com/Gaganshekar/alumni-management-system)
 
